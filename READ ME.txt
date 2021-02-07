@@ -1,7 +1,7 @@
 THIS IS A VIDEO DOWNLOADER DESIGNED BY RAJNISH SINGH (JANWER)
 *****************************************####**************************************####*********************************####****************************
 
-#Ones you had installed the ytube in a location than gor the grafical user interface
+#Ones you had installed the ytube in a location than go to the grafical user interface(GUI)
 to open you have to click on "Ytube.exe" file
 
 #ones you had double click on Ytube.exe then a tab will open as "YOUTUBE VIDEO DOWNLOADER"
@@ -16,7 +16,7 @@ step2.  (optional) if want to give or change name of a video so enter the name i
 
 step3.  choose the resolution you want to download by selection the radio button there.
 
-step4.  chick the serch button to se weather the video is avallable in that resolution.
+step4.  click the serch button to se weather the video is avallable in that resolution.
 
 step5.   if the message box arrise saying "VIDEO IS PRESENT" than click ok.
 
