@@ -17,3 +17,5 @@ rest for any dougth yiu can read the read me file in it.
 
 
 you can se ther is also yt name file tihs are the code the rest are the extended object nead to run the  softare carefully.
+
+Made by Rajnish Singh
