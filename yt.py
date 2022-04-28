@@ -100,7 +100,7 @@ class youtube:
         img1 = img.resize((300 ,157), Image.ANTIALIAS)
         img2 = ImageTk.PhotoImage(img1)
         self.f2.config(image = img2)
-        print("done")
+        print("It's Done")
     # description
         self.f3.delete('1.0',END)
         self.f3.insert(END,y.description[:2000])
